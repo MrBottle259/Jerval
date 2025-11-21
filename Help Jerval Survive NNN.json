@@ -3,7 +3,7 @@
   "description": "Test",
   "artist": "Test",
   "author": "Test",
-  "cover": "<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"a/EIEI3w8\"  ><a href=\"//imgur.com/a/EIEI3w8\">HJSNNN Cover</a></blockquote><script async src=\"//s.imgur.com/min/embed.js\" charset=\"utf-8\"></script>",
+  "cover": "https://raw.githubusercontent.com/MrBottle259/Jerval/9ce02d7ec136c21d379737975bf3693dcf5ddead/day1-1.png",
   "chapters": {
     "1": {
       "title": "Help Jerval Survive NNN 1 / 30",
