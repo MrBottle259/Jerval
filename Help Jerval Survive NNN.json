@@ -3,7 +3,7 @@
   "description": "Test",
   "artist": "Test",
   "author": "Test",
-  "cover": "https://raw.githubusercontent.com/MrBottle259/Jerval/9ce02d7ec136c21d379737975bf3693dcf5ddead/day1-1.png",
+  "cover": "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/day1-1.png",
   "chapters": {
     "1": {
       "title": "Help Jerval Survive NNN 1 / 30",
@@ -11,7 +11,7 @@
       "last_updated": "1763730857",
       "groups": {
         "1": [
-          "<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"a/EnVxFNv\"  ><a href=\"//imgur.com/a/EnVxFNv\">Help Jerval Survive NNN 1 / 30</a></blockquote><script async src=\"//s.imgur.com/min/embed.js\" charset=\"utf-8\"></script>"
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/day1-1.png"
         ]
       }
     }
