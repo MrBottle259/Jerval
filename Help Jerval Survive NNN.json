@@ -1,8 +1,8 @@
 {
   "title": "Help Jerval Survive NNN",
-  "description": "Test",
-  "artist": "Test",
-  "author": "Test",
+  "description": "Help Jerval Survive NNN (Hosted for reddit r/nonutnovember",
+  "artist": "u/YalikeJazz-DEZ1071",
+  "author": "u/YalikeJazz-DEZ1071",
   "cover": "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/TitleCard.png",
   "chapters": {
     "1": {
@@ -79,6 +79,23 @@
           "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day5-Finals/5-7.png",
           "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day5-Finals/5-8.png",
           "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day5-Finals/5-9.png"
+        ]
+      }
+    },
+    "6": {
+      "title": "Help Jerval Survive NNN 6 / 30",
+      "volume": "1",
+      "last_updated": "1763786661",
+      "groups": {
+        "1": [
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-1.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-2.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-3.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-4.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-5.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-6.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-7.png",
+          "https://raw.githubusercontent.com/MrBottle259/Jerval/refs/heads/main/Day6-Finals/6-8.png"
         ]
       }
     }
